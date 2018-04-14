@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523436496 source:/home/partha/MY Drives/Books/L- 4 T- 2/LAB/CSE 410(GRAPHICS)/Assignment1.2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<X11/X.h>
+	<X11/keysym.h>
+
