@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1532068079 source:/home/partha/MY_Drives/Books/L- 4 T- 2/LAB/CSE 410(GRAPHICS)/Assignment4/RayTracing/main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	"helper.hpp"
+	"bitmap_image.hpp"
+	<float.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<X11/X.h>
+	<X11/keysym.h>
+
+1532068110 /home/partha/MY_Drives/Books/L- 4 T- 2/LAB/CSE 410(GRAPHICS)/Assignment4/RayTracing/helper.hpp
+	<vector>
+	<GL/glx.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<X11/X.h>
+	<X11/keysym.h>
+	<iostream>
+	<float.h>
+	"bitmap_image.hpp"
+
+1526315054 /home/partha/MY_Drives/Books/L- 4 T- 2/LAB/CSE 410(GRAPHICS)/Assignment4/RayTracing/bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
